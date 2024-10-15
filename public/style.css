@@ -1,0 +1,28 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
+
+#editbtn{
+    background-color: rgb(8, 112, 48);
+    color: black;
+    border-radius: 5px;
+}
+
+#delbtn{
+    background-color: rgb(115, 3, 3);
+    color: black;
+    border-radius: 5px; 
+}
